@@ -20,5 +20,3 @@ else:
 
 print('-' * 20)
 print('Chegamos ao final!')
-
-    
